@@ -1,0 +1,29 @@
+20 September 2022
+
+Miguel- Created Git Hub repository 
+	Had some problems with the git add commit but figured it out
+	Today attended the QC meeting 
+	Hasn't started project 1 yet
+
+David - Created Git Hub repository
+	Confused about which files to include in a git repository
+	Has only done the readme for project 1
+	Today attended the QC meeting 
+
+Chris - Created Git Hub repository 
+	Trying to figure out the formatting
+	Practiced with GitBash
+	Studied yesterdays matieral 
+	Today attended the QC meeting 
+
+
+Trey - Started on project yesterday/ only got to creating the username and password w/intelliJ
+	Work more on the project today
+	Figure out more specifics on the code. 
+	Today attended the QC meeting 
+
+Opale - Created Git Hub repository
+	Studied yesterdays material
+	Today attended the QC meeting 
+
+Team 1 created team repository
