@@ -1,0 +1,20 @@
+Opal: 1.completed challenge from yesterday,
+	2.and setup some of project 1, 
+	started notepad txt document on methods of
+ 	completing project
+
+Miguel: completed the coding challenge yesterday
+	waiting to learn more on todays lecture to complete project
+	wants to start template for project 1 today
+
+Chris: 1.did a couple of the trello board problems in hacker rank
+	2.completed the coding challenge
+	3.completed some of project 1
+	4.wants to learn more methods to complete more of the project
+
+Trey: 1. completed coding challenge from yesterday
+	2. worked on project 
+	3. completed some coding challenges in hackerrank, ran into a couple issues
+
+David: 1. completed the coding challenge from yesterday to print even and odd numbers 
+	2. waiting for more information to start on project 1
