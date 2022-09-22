@@ -1,0 +1,46 @@
+22 09 2022
+
+Miguel - 
+	Yesterday: Studied the material for day 1 and 2 for verbal.
+
+	Today: Review more material today by reviewing recorded lecture
+
+	Issues: Designing project with changing scope, and using lectures to learn more about planning
+
+	Project: Planning it out with the new scope now.
+
+David- 
+	Yesterday: Practiced different types of exceptions
+
+	Today: Learning more about Postman
+
+	Issues: Understanding the project requirements, but will look more at the new requirements
+
+	Project: Built different menus for project 1
+
+Trey- 
+	Yesterday: Rewatched lecture to learn planning techniques
+
+	Today: Work more on project 1
+
+	Issues: N/A
+
+	Project: Planning/working on project more with the new techniques learned in lecture
+
+Opale- 
+	Yesterday: Tried using hashmap to work for storing usernames and passwords
+
+	Today: Learning more about hashmaps
+
+	Issues: Implementing hashmaps into project 1
+
+	Project: Started trying to setup data storing functionality in project 1
+
+Chris- 
+	Yesterday: Did a hackerrank challenge, designed project, and started menu builds for project 1.
+
+	Today: Practice http if we learn about it, and try implementing data checks for project 1
+
+	Issues: Building hashmaps or other data storing objects.
+
+	Project: Built out menus for project 1
