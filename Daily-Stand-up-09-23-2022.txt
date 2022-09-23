@@ -1,0 +1,48 @@
+september 23 2022
+
+Miguel - 
+	Yesterday: did some study, review some videos
+
+	Today: get ready fot the challege, keep studing
+
+	Issues: rememberig some concepts
+
+	Project: wait to know what the actual proyect will have
+
+David- 
+	Yesterday: did the loging in to register and use it to login, looking miro to understand what Bach teach us,
+	create a DB
+
+	Today: studying, and get ready for the QC
+
+	Issues: diferencd between link list and array list
+
+	Project:
+
+Trey- 
+	Yesterday: internalize what we have learn, and making his own code
+
+	Today: continuing whit the hash map, comparing the keys and values in maps
+
+	Issues:
+
+	Project: keep working in the proyect
+
+Opale- 
+	Yesterday: study for the QC, look for the revaturePro, try to figure out how to input info in the map
+
+	Today: recreate the code to understand what we have learn
+
+	Issues: mapping
+
+	Project: waiting to know what is going to be the proyect
+
+Chris- 
+	Yesterday: did couple of hack rank, he got confuse in some challeges, try to do a map
+	(struggle)
+
+	Today: review about david, get ready for the QC
+
+	Issues: whit the maps
+
+	Project: try to build, but will what to learn more about API
