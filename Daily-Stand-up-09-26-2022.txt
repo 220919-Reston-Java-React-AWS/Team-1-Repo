@@ -1,0 +1,46 @@
+26 September 2022
+
+Miguel - 
+	Yesterday: Studied for QC, did some hacker ranks challenges
+
+	Today: Go over Javalin, Maven, and Postman set up.
+
+	Issues:
+
+	Project:
+
+David- 
+	Yesterday: Went over Javalin and Maven demo, Recreated project 1 using Javalin and Postman
+
+	Today: Study more over last weeks material 
+
+	Issues:
+
+	Project:
+
+Trey- 
+	Yesterday: Studied for QC, did some hacker ranks challenges, Worked a little on project 1
+
+	Today:
+
+	Issues:
+
+	Project:
+
+Opale- 
+	Yesterday: Studied for QC, did some hacker ranks challenges. Created a Maven program for project 1.
+
+	Today:work more on project 1
+
+	Issues: Postman, Javalin communication
+
+	Project:
+
+Chris- 
+	Yesterday: Studied for QC, did some hacker rank challenges. 
+
+	Today: Go over Javalin, Maven, and Postman set up. 
+
+	Issues:
+
+	Project:
