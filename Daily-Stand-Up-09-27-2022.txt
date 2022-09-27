@@ -1,0 +1,46 @@
+27 09 2022
+
+Miguel - 
+	Yesterday: Watched setup maven and javalin
+
+	Today: Watch more videos on setup
+
+	Issues: Probably will do more research on maven and javalin
+
+	Project: Work on implementation of javalin in project 1
+
+David- 
+	Yesterday: Reviewed quiz yesterday
+
+	Today: Start implementation on 
+
+	Issues: No issues
+
+	Project: about to start implementing other parts of project
+
+Trey- 
+	Yesterday: Studied for coding challenge
+
+	Today: Study material and practice
+
+	Issues: looking at smaller details into problems with qc coding challenge.
+
+	Project: Review maven and javalin
+
+Opale- 
+	Yesterday: Worked on maven and javalin communication, quiz review
+
+	Today: work on project 1 with sql
+
+	Issues: Fixed with review yesterday
+
+	Project: work on project 1 with sql
+
+Chris- 
+	Yesterday: setup maven and javalin for project 1
+
+	Today: Setup prompts for project 1 and add to study guides
+
+	Issues: Figuring out how to proceed in displaying prompts for project 1
+
+	Project: Implement registration prompts and checks.
