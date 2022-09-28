@@ -1,0 +1,27 @@
+28 09 2022
+
+Miguel- 
+	Yesterday: Did some SQLBolt challenges, up to level 8. Watched video about JDBC. Pretty easy. 
+	
+	Today: Will do more SQLBolt.
+
+Opale-
+	Yesterday worked on SQLBolt.
+	
+	Today: Hopefully will figure out how to connect SQL with Java.
+
+Trey-
+	Yesterday: Worked on SQLBolt, watched videos on connecting DB to java.
+	
+	Today: Learn more about connecting DB to Java.
+
+Chris- 
+	Yesterday: Did 4 SQLBolt lessons, had some trouble with modulus. 
+
+	Watched JDBC video, confused about MYSQl vs Oracle
+
+	Today: Will learn more about MYSQL vs other DBs.
+
+David-	Yesterday:
+
+	Did some SQLBolt, started HackerRank
