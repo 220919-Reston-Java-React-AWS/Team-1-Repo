@@ -1,0 +1,47 @@
+dd Month yyyy
+
+Miguel - 
+	Yesterday: review lecture
+
+	Today:working on the project, working on sqlbolt
+
+	Issues:none at the moment
+
+	Project: work in progress, will complete today
+
+David- 
+	Yesterday:did sqlbolt excercise, rewatched lecture videos, worked on project
+
+	Today:rewatch more lecture to gain more understanding of JDBC
+
+	Issues: connecting to the database in java JDBC
+
+	Project:work in progress
+
+Trey- 
+	Yesterday: mostly review, worked on the project a little
+
+	Today: working on the project 
+
+	Issues: none at the moment
+
+	Project: work in progress 
+
+Opale- 
+	Yesterday:reviewed for mock interviews, watched yesterdays lecture
+
+	Today:finish sqlbolt, implementing new ideas into project 1
+
+	Issues:none at the moment
+
+	Project: work in progress
+
+Chris- 
+	Yesterday:worked on sqlbolt, and reviewed for the mock interview
+		watched videos on JDBC,
+
+	Today:rewatch the lectures to work on the project
+
+	Issues:sqlbolt gave a few issues
+
+	Project:
