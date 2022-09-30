@@ -1,0 +1,46 @@
+dd Month yyyy
+
+Miguel - 
+	Yesterday:
+
+	Today:
+
+	Issues:
+
+	Project:
+
+David- 
+	Yesterday:
+
+	Today:
+
+	Issues:
+
+	Project:
+
+Trey- 
+	Yesterday:
+
+	Today:
+
+	Issues:
+
+	Project:
+
+Opale- 
+	Yesterday:
+
+	Today:
+
+	Issues:
+
+	Project:
+
+Chris- 
+	Yesterday:
+
+	Today:
+
+	Issues:
+
+	Project:
