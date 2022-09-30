@@ -1,0 +1,28 @@
+Daily-Stand-up-30 September 2022
+
+
+Miguel -
+Yesterday: database structure, work on the code
+Today: study and keep working on the project, planning to finish on saturday
+
+
+David-
+Yesterday:database connected, add user to work
+Today: add some features and study
+
+
+Trey-
+Yesterday: work of the project, did review
+Today: work on project an implement some features
+Issues: have a little issue running the program but restart it and works
+
+
+
+Opale-
+Yesterday: finished SQL bolt, work on project, connected data base
+Today: study and make some projects to work
+
+Chris-
+Yesterday: work on project one after finish one on one, work on sql bolt and hankerRank
+Today: work on project one, study for future
+
