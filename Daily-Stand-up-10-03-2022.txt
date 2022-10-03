@@ -1,0 +1,45 @@
+03 October 2022
+
+Miguel - 
+	Yesterday:Worked on project 1. 
+
+	Today:Work on reimbursement repository and rest of the project. 
+
+	Issues:
+
+	Project:User repository done. 
+
+David- 
+	Yesterday:Worked on project. Got most of the MVP stuff done. Finished SQL challenges. 
+
+	Today: Study over week 2 material
+
+	Issues:Queue for project 1
+
+	Project: Completed the basics
+
+Trey- 
+	Yesterday:Worked on project 1. Studied over week 2 material. 
+
+	Today:Work on project 1. 
+
+	Issues:
+
+	Project: MVPs started. 
+Opale- 
+	Yesterday:Worked on project 1. 
+
+	Today:work on project 1, study
+
+	Issues:
+
+	Project: MVPs taken care of.
+
+Chris- 
+	Yesterday:Worked on project 1. Studied over week 2 stuff. Finished SQL challenges
+
+	Today:Work on project 1. 
+
+	Issues:
+
+	Project: MVPs taken care of. 
