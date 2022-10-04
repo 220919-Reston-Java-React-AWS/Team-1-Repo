@@ -1,0 +1,24 @@
+Opale - 
+	Yesterday: Most of project 1 is done. Studied for 1 on 1 and coding challenge.
+	
+	Today: Will study more and work on stretch goals for project one.
+
+Miguel -
+	Yesterday: Worked on project jdbc.
+	
+	Today: Will finish testing in postman and study. Mostly concerned about project 1.
+
+Chris - 
+	Yesterday: Studied for 1 on 1. Studied sql bolts, worked on project.
+	
+	Today: Will do rest today of project and set up postman test, Will look over week 2 stuff more.
+
+Trey: 
+	Yesterday: Worked a little on project 1 but more focused on studying. Looked at sql bolt.
+	
+	Today: Needs to look at notes for week 2.
+
+David: 
+	Studied questions missed in quiz.
+	
+	Today: Will study more and work more on project 1.
