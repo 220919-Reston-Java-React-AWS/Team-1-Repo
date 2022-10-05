@@ -1,0 +1,46 @@
+05 October 2022
+
+Miguel - 
+	Yesterday: Finished submit ticket features
+
+	Today: work on other parts of project 
+
+	Issues: 
+
+	Project: looking to finish mvp requirements soon and implement testing.
+
+David- 
+	Yesterday: Went through checklist for project 1 on trello board and finished MVP.
+
+	Today:  Working on stretch goals for project 1 and reviewing SQL.
+
+	Issues: Looking to understand custom array lists better.
+
+	Project: Finished MVP for project 1 and is planning on doing stretch goals.
+
+Trey- 
+	Yesterday: Working on project 1 controller layer.
+
+	Today: Reviewing example code to get controller layer figured out.
+
+	Issues: Implementing controller layer.
+
+	Project: Looking to implement controller layer.
+
+Opale- 
+	Yesterday: Finished trello board requirements and studied week 2 materials.
+
+	Today: Work on unit tests and stretch goals.
+
+	Issues:
+
+	Project: Finished MVP
+
+Chris- 
+	Yesterday: Worked on project 1 and studied some week 2 material.
+
+	Today: Finish up on controller layer for project 1 and work on unit testing.
+
+	Issues: trying to implement program into controller layer and javalin to interact with postman.
+
+	Project: Have most of the features complete need to figure out security layers to restrict data access for employees.
