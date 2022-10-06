@@ -1,0 +1,46 @@
+dd Month yyyy
+
+Miguel - 
+	Yesterday:finished mvp on project 1
+
+	Today:work on sqlbolts and review materials
+
+	Issues: none
+
+	Project:mvp completed
+
+David- 
+	Yesterday:added more unit tests, completed mvp
+
+	Today:try to go beyond mvp for the stretch goals, watch previous lessons
+
+	Issues:fixed unit testing bug, adding stretch goals
+
+	Project: mvp complete
+
+Trey- 
+	Yesterday:worked on project one to complete mvp, worked on tables in dbeaver 
+
+	Today:finishing up project 
+
+	Issues:mapping endpoints
+
+	Project: mvp almost complete
+
+Opale- 
+	Yesterday:watched old lectures, looked into docker,worked on unit tests
+
+	Today:working on stretch goals
+
+	Issues:unit tests
+
+	Project:mvp complete
+
+Chris- 
+	Yesterday:finished mvp
+
+	Today:working on stretch goals
+
+	Issues:mockito, junit
+
+	Project:working on stretch goals
