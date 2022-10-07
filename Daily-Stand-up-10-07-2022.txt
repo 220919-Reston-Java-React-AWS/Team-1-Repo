@@ -1,0 +1,46 @@
+07 Oct 2022
+
+Miguel - 
+	Yesterday: work on bugs, change some variables
+
+	Today:code freeze, write down notes
+
+	Issues:
+
+	Project: Done
+
+David- 
+	Yesterday: fix small problems in his project,
+
+	Today: Code Freeze, write down notes for presentation.
+
+	Issues:
+
+	Project:
+
+Trey- 
+	Yesterday: working on the project to get MVP
+
+	Today:
+
+	Issues:
+
+	Project:
+
+Opale- 
+	Yesterday: mess around with mockito
+
+	Today:code freeze, prepare for presentation
+
+	Issues:
+
+	Project: Done
+
+Chris- 
+	Yesterday: finished working with mockito, make everything work.
+
+	Today: code freeze
+
+	Issues:
+
+	Project: Done
